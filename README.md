@@ -1,6 +1,6 @@
 # 一、背景
 
-在实际开发中，需要不停的打各种包，开发人员忙于新需求实现，打包时重复而且没有意义的事情。于是造了这个轮子，配置好参数一键上传到内测网站(蒲公英、Fir等)或者APPStore。源码地址：[https://github.com/stackhou/AutoPacking-iOS](https://github.com/stackhou/AutoPacking-iOS)
+在实际开发中，需要不停的打各种包，根据公司的项目的具体情况，开发人员忙于新需求实现，打包时重复而且没有意义的事情。于是造了这个轮子，配置好参数一键上传到内测网站(蒲公英、Fir等)或者APPStore。源码地址：[https://github.com/stackhou/AutoPacking-iOS](https://github.com/stackhou/AutoPacking-iOS)
 
 # 二、预览效果图
 
