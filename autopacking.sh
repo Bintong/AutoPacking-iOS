@@ -16,8 +16,8 @@
 # ************************* 配置 Start ********************************
 
 # 上传到蒲公英
-__PGYER_U_KEY="edbf72a08cde1297732e2fda45e29a19"
-__PGYER_API_KEY="6ca2ef74f0e7b5d51d3b27cb4d537664"
+__PGYER_U_KEY=""
+__PGYER_API_KEY=""
 
 # 上传到 Fir
 __FIR_API_TOKEN=""
